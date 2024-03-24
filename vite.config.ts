@@ -13,7 +13,7 @@ export default defineConfig({
             gzipSize: true,
             brotliSize: true,
             filename: 'bundle/index.html',
-            title: 'Bundle analyzer'
+            title: 'Bundle analyzer',
         }),
     ],
     resolve: {
